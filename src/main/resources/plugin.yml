@@ -1,0 +1,5 @@
+name: NewDayWarp
+version: '${version}'
+main: org.lumenk.newdaywarp.NewDayWarp
+api-version: 1.18
+authors: [ SeHyeonBak ]
