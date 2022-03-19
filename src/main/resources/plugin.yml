@@ -6,4 +6,4 @@ authors: [ SeHyeonBak ]
 depend : [WorldGuardEvents]
 commands:
   warpdata:
-    permission: newday.engineer
+    permission: newday.operator
